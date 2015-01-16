@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fader()
+comment0.text=\r\n\ Default\ constructor\ -\ When\ a\ new\ Fader\ is\ added\r\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ addedToWorld(World\ w)\ is\ automatically\ called\ when\ a\ Fader\ object\r\n\ is\ added\ to\ the\ World.\ In\ this\ case,\ stop\ the\ game\ (delay\ in\ loop\r\n\ has\ that\ effect)\ and\ gradually\ make\ the\ black\ square\ darker.\r\n
+comment2.params=
+comment2.target=void\ fadeBackIn()
+comment2.text=\r\n\ When\ finished\ updating\ the\ level,\ call\ this\ method\ to\r\n\ slowly\ fade\ the\ black\ square\ back\ to\ clear,\ and\ eventually\r\n\ remove\ it.\r\n
+numComments=3

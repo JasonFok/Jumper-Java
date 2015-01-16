@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyWorld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ Every\ act,\ check\ the\ keys\ and\ move\ appropriately\r\n
+comment2.params=
+comment2.target=void\ gameOver()
+comment2.text=\r\n\ Method\ called\ when\ the\ Player\ accidentally\ touches\ the\ bottom\ fo\ the\ screen\ and\ ends\ the\ game\r\n
+comment3.params=
+comment3.target=void\ checkDeath()
+comment3.text=\r\n\ Checks\ if\ the\ player\ hits\ the\ bottom\ of\ the\ world\r\n
+comment4.params=
+comment4.target=void\ checkXAxis()
+comment4.text=\r\n\ Checks\ if\ the\ player\ hits\ the\ edge\ of\ the\ screen\ and\ relocates\ to\ the\ other\ side\ of\ the\ world\ if\ so\r\n
+comment5.params=
+comment5.target=void\ checkPlatform()
+comment5.text=\r\n\ check\ if\ a\ platform\ is\ removed,\ then\ adds\ power-ups\ and\ new\ platforms\r\n
+comment6.params=
+comment6.target=void\ checkScroll()
+comment6.text=\r\n\ checks\ if\ player\ is\ above\ the\ middle\ of\ the\ screen,\ then\ scrolls\ everything\ and\ increases\ the\ players\ score\r\n
+comment7.params=
+comment7.target=void\ scrollEverything()
+comment7.text=\r\n\ Scolls\ all\ objects\ down\ except\ for\ the\ palyer\ when\ the\ player\ is\ above\ the\ midpoint\ on\ the\ y-axis\r\n
+numComments=8
